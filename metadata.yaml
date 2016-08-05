@@ -1,0 +1,31 @@
+_repo: The-Happy-End_7843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hergesheimer, Joseph
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '2218'
+    url: http://www.gutenberg.org/2009/agents/2218
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
+description: This collection of seven short stories, published in 1919, includes one
+  of Hergesheimer's most famous tales, Tol'able David," about a young West Virginia
+  mountain boy's conflict with a difficult Kentucky family. The story was made into
+  an acclaimed silent film in 1921.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Lonely valleys -- The Egyptian chariot -- The flower of Spain --
+  Tol'able David -- Bread -- Rosemary Roselle -- The thrush in the hedge.
+title: The Happy End
+url: http://www.gutenberg.org/ebooks/7843
