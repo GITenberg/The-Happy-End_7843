@@ -1,5 +1,8 @@
 _repo: The-Happy-End_7843
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hergesheimer, Joseph
@@ -12,6 +15,8 @@ description: This collection of seven short stories, published in 1919, includes
   of Hergesheimer's most famous tales, Tol'able David," about a young West Virginia
   mountain boy's conflict with a difficult Kentucky family. The story was made into
   an acclaimed silent film in 1921.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7843#The-Happy-End
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
